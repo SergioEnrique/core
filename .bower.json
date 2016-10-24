@@ -1,0 +1,14 @@
+{
+  "name": "shower-core",
+  "homepage": "https://github.com/SergioEnrique/core",
+  "version": "2.0.7",
+  "_release": "2.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.7",
+    "commit": "8456bf639bde5ffb7590764e82b48578e17c8be7"
+  },
+  "_source": "git://github.com/SergioEnrique/core.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/SergioEnrique/core"
+}
